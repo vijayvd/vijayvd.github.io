@@ -1,4 +1,4 @@
-<a href="https://colab.research.google.com/github/vijayvd/vijayvd.github.io/blob/master/_jupyter/2020_05_30_Quantile_quantile_plot.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/vijayvd/vijayvd.github.io/blob/master/_jupyter/2020-05-30-Quantile-quantile-plot.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 # Quantile-quantile plot
 In this post we will look into quantile-quantile plots. Suppose we have samples $x_1, x_2, \ldots, x_n$ and we are interested in seeing if the points follow normal distribution. This could be, for example, to verify if the residuals of linear regression are normally distributed.  One tool is to use quantile-quantile plot (or qqplot). We will look at some examples for this. Let's start by installing and loading libraries.
