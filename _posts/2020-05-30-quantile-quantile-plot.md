@@ -45,7 +45,7 @@ qqnorm(x)
 ```
 
 
-![png](2020-05-30-quantile-quantile-plot_files/2020-05-30-quantile-quantile-plot_4_0.png)
+![png](/images/2020-05-30-quantile-quantile-plot_files/2020-05-30-quantile-quantile-plot_4_0.png)
 
 
 # Experiment 2
@@ -73,7 +73,7 @@ qqnorm(x)
 ```
 
 
-![png](2020-05-30-quantile-quantile-plot_files/2020-05-30-quantile-quantile-plot_6_0.png)
+![png](/images/2020-05-30-quantile-quantile-plot_files/2020-05-30-quantile-quantile-plot_6_0.png)
 
 
 # Experiment 3
@@ -100,7 +100,7 @@ qqnorm(x)
 ```
 
 
-![png](2020-05-30-quantile-quantile-plot_files/2020-05-30-quantile-quantile-plot_8_0.png)
+![png](/images/2020-05-30-quantile-quantile-plot_files/2020-05-30-quantile-quantile-plot_8_0.png)
 
 
 # Experiment 4
@@ -125,11 +125,11 @@ abline(0, 1)
 
 
 
-![png](2020-05-30-quantile-quantile-plot_files/2020-05-30-quantile-quantile-plot_10_1.png)
+![png](/images/2020-05-30-quantile-quantile-plot_files/2020-05-30-quantile-quantile-plot_10_1.png)
 
 
 
-![png](2020-05-30-quantile-quantile-plot_files/2020-05-30-quantile-quantile-plot_10_2.png)
+![png](/images/2020-05-30-quantile-quantile-plot_files/2020-05-30-quantile-quantile-plot_10_2.png)
 
 
 
